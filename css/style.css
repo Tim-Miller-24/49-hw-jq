@@ -1,0 +1,14 @@
+body{
+    background-color: #001b50;
+}
+section{
+    width: 1024px;
+    margin: auto;
+}
+img {
+    display: none;
+    float: left;
+    margin: 3px;
+    box-shadow: 0 0 2px;
+    outline: 1px solid #b7d4f6;
+}
